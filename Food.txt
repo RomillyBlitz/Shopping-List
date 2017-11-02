@@ -3,4 +3,6 @@
 * Nuts
 * Fries
 * Pizza
-* Peperoni 
+* Peperoni
+* Nachos
+* Salsa 
